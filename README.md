@@ -37,3 +37,5 @@
 	<li>"Algebra of Happiness" <span>by Scott Galloway</span></li>
 	<li>"Delivering Happiness" <span>by Tony Hsieh</span></li>
 	<li>"Zero to One" <span>by Peter Thiel</span></li>
+	<li>"How To Think Like A Roman Emperor" <span>by Donald Robertson</span></li>
+	<li>"Julius Caesar" <span>by William Shakespeare</span></li>
