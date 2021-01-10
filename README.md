@@ -40,3 +40,4 @@
 	<li>"How To Think Like A Roman Emperor" <span>by Donald Robertson</span></li>
 	<li>"Julius Caesar" <span>by William Shakespeare</span></li>
 	<li>"Sustainability" <span>by Kent E. Portney</span></li>
+	<li>"Brave New World" <span>by Aldous Huxley</span></li>
