@@ -41,3 +41,6 @@
 	<li>"Julius Caesar" <span>by William Shakespeare</span></li>
 	<li>"Sustainability" <span>by Kent E. Portney</span></li>
 	<li>"Brave New World" <span>by Aldous Huxley</span></li>
+	<li>"Range" <span>by David Epstein</span></li>
+	<li>"The Hitchhiker's Guide to the Galaxy" <span>by Douglas Adams</span></li>
+	<li>"Recommendation Engines" <span>by Michael Schrage</span></li>	
