@@ -44,3 +44,6 @@
 	<li>"Range" <span>by David Epstein</span></li>
 	<li>"The Hitchhiker's Guide to the Galaxy" <span>by Douglas Adams</span></li>
 	<li>"Recommendation Engines" <span>by Michael Schrage</span></li>	
+	<li>"100$ Startup" <span>by Chris Guillebeau</span></li>
+	<li>"AI Ethics" <span>by Mark Coeckelbergh</span></li>
+	<li>"Classical Mechanics" <span>by Leonard Susskind</span></li>
